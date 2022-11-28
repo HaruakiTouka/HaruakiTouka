@@ -66,7 +66,7 @@ const Nicklette = {
   &nbsp;<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img height="30" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png"></a></code>
 </p>
 
-###<img src="https://media0.giphy.com/media/Jed3M6XdSRI9wSsiQF/giphy.webp?cid=790b7611323t77prv15j1mdmglwpp00uw31c7q7hq1z0rrts&rid=giphy.webp&ct=s" width="30px" height="30px">Github Statistics
+<img src="https://media0.giphy.com/media/Jed3M6XdSRI9wSsiQF/giphy.webp?cid=790b7611323t77prv15j1mdmglwpp00uw31c7q7hq1z0rrts&rid=giphy.webp&ct=s" width="30px" height="30px">Github Statistics
 
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HaruakiTouka&layout=compact&&theme=vue&hide=issues&line_height=30">
