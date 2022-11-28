@@ -7,20 +7,20 @@
 </em></p>
 
 <p align="left">
-  <img src="[https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif](https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s)" width="30px" height="30px">
-  <img src="[https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif](https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s)" width="30px" height="30px">
-  <img src="[https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif](https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s)" width="30px" height="30px">
-  <img src="[https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif](https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s)" width="30px" height="30px">
-  <img src="[https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif](https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s)" width="30px" height="30px">
-  <img src="[https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif](https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s)" width="30px" height="30px">
-  <img src="[https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif](https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s)" width="30px" height="30px">
-  <img src="[https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif](https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s)" width="30px" height="30px">
-  <img src="[https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif](https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s)" width="30px" height="30px">
-  <img src="[https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif](https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s)" width="30px" height="30px">
-  <img src="[https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif](https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s)" width="30px" height="30px">
-  <img src="[https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif](https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s)" width="30px" height="30px">
-  <img src="[https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif](https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s)" width="30px" height="30px">
-  <img src="https://media.giphy.com/media/26BREDkItN0Yy3i6Y/giphy.gif" width="30px" height="30px">
+  <img src="https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s" width="30px" height="30px">
+  <img src="https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s" width="30px" height="30px">
+  <img src="https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s" width="30px" height="30px">
+  <img src="https://media0.giphy.com/media/i2oemhIwuZHIQ/giphy.webp?cid=790b7611vi328p0u6noovlf30yfwduihex5cnt7arcq2ts76&rid=giphy.webp&ct=s" width="30px" height="30px">
+  <img src="https://media0.giphy.com/media/i2oemhIwuZHIQ/giphy.webp?cid=790b7611vi328p0u6noovlf30yfwduihex5cnt7arcq2ts76&rid=giphy.webp&ct=s" width="30px" height="30px">
+  <img src="https://media0.giphy.com/media/i2oemhIwuZHIQ/giphy.webp?cid=790b7611vi328p0u6noovlf30yfwduihex5cnt7arcq2ts76&rid=giphy.webp&ct=s" width="30px" height="30px">
+  <img src="https://media0.giphy.com/media/gjD1hRD8gtJ3MGzs9L/200w.webp?cid=790b7611kq6cdtbbnu1hx1hnl4jdrkn4gzqhj1p3iwdhdmpm&rid=200w.webp&ct=s" width="30px" height="30px">
+  <img src="https://media3.giphy.com/media/XFjwonm2gyMCnfL2Xe/200w.webp?cid=790b7611kq6cdtbbnu1hx1hnl4jdrkn4gzqhj1p3iwdhdmpm&rid=200w.webp&ct=s" width="30px" height="30px">
+  <img src="https://media2.giphy.com/media/kuWN0iF9BLQKk/200.webp?cid=790b7611i5t6gm0gj3lqyrd245iaj5q42lt3i6umv7ibipdk&rid=200.webp&ct=s" width="30px" height="30px">
+  <img src="https://media2.giphy.com/media/kuWN0iF9BLQKk/200.webp?cid=790b7611i5t6gm0gj3lqyrd245iaj5q42lt3i6umv7ibipdk&rid=200.webp&ct=s" width="30px" height="30px">
+  <img src="https://media2.giphy.com/media/kuWN0iF9BLQKk/200.webp?cid=790b7611i5t6gm0gj3lqyrd245iaj5q42lt3i6umv7ibipdk&rid=200.webp&ct=s" width="30px" height="30px">
+  <img src="https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s" width="30px" height="30px">
+  <img src="https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s" width="30px" height="30px">
+  <img src="https://media4.giphy.com/media/9nuXRx5EfGsKc/200w.webp?cid=790b76119xw2pu130nzt6czd4mrcslw7f1uosihhz770de43&rid=200w.webp&ct=s" width="30px" height="30px">
 </p>
 
 ### <img src="https://media2.giphy.com/media/vPfUyI6EhxhzAvYRl3/200w.webp?cid=790b7611bp3tg42nmzp5x7rens9sip2pct0hgguiwj3zx3nl&rid=200w.webp&ct=s" width="30px" height="30px">️ A little more about me... 
@@ -66,7 +66,7 @@ const Nicklette = {
   &nbsp;<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img height="30" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png"></a></code>
 </p>
 
-<img src="https://media0.giphy.com/media/Jed3M6XdSRI9wSsiQF/giphy.webp?cid=790b7611323t77prv15j1mdmglwpp00uw31c7q7hq1z0rrts&rid=giphy.webp&ct=s" width="30px" height="30px">Github Statistics
+### <img src="https://media0.giphy.com/media/Jed3M6XdSRI9wSsiQF/giphy.webp?cid=790b7611323t77prv15j1mdmglwpp00uw31c7q7hq1z0rrts&rid=giphy.webp&ct=s" width="30px" height="30px">Github Statistics
 
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HaruakiTouka&layout=compact&&theme=vue&hide=issues&line_height=30">
@@ -148,3 +148,4 @@ architecture: ["microservices", "event-driven", "design system pattern"],
 6  字体
 𝑺𝒆𝒏𝒊𝒐𝒓 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 𝑩𝒆𝒊𝒋𝒊𝒏𝒈, 𝒂𝒕 𝑱𝑫.𝒄𝒐𝒎. 
 -->
+
