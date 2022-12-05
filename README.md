@@ -25,7 +25,7 @@
 
 ### <img src="https://media2.giphy.com/media/vPfUyI6EhxhzAvYRl3/200w.webp?cid=790b7611bp3tg42nmzp5x7rens9sip2pct0hgguiwj3zx3nl&rid=200w.webp&ct=s" width="30px" height="30px">️ A little more about me... 
 ```javascript
-const Nicklette = {
+const ZK = {
   pronouns: "he" | "him",
   skills: [ Java, Python, R, SQL],
   contact: {
